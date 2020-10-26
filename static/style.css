@@ -1,11 +1,17 @@
 .helloFranck {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .helloVivien {
-  color: navy;
+    color: navy;
 }
+
 .helloGino {
-  font-size: 50px;
-  background-color: aliceblue;
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+.helloNoemie {
+    font-size: 60px;
+    background-color: pink;
 }
