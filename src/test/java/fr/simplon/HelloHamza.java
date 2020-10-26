@@ -13,6 +13,6 @@ class HelloHamza {
      */
     @Test
     void testApp() {
-        assertEquals(1, 1);
+        assertEquals("Hello Hamza", App.helloBoyAndGirl("Hamza"));
     }
 }
